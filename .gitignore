@@ -1,0 +1,5 @@
+result*
+.direnv/
+.DS_Store
+.antigravitycli/
+log_iotc.txt
